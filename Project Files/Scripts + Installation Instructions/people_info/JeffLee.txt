@@ -1,0 +1,46 @@
+Skills: 
+    Agile Methodologies
+    Scrum
+    Java Enterprise Edition
+    Java
+    Agile Methodologies
+    Scrum
+    Java Enterprise Edition
+    Java
+Name: LeeJeff   https://www.linkedin.com/in/ACoAAAEZFRUBYxSlEDqp-0gItpaCVQOcTBtjGwk/
+Summary: I&#39;m a Java and Groovy developer who has worked in various industries. I have worked in both Agile environments and those with more structured waterfall life cycles. Currently looking for architect or team lead roles, or positions where I can move up to those roles.&#92;n&#92;nRecently, became a licensed pilot also.  Currently working on getting my Instrument Rating.&#92;n&#92;nSpecialties: Groovy, Java, Java EE, Microservices, JSF, RichFaces, JBoss, Weblogic, Websphere, lean software development, Agile, Scrum, TDD
+occupation: Sr. IoT Engineer
+location: Woodstock, Georgia
+Education Background:
+    Sequoyah High School    1996 ~ 2000    College Prep    HS diploma
+    Georgia Institute of Technology    2000 ~ 2002    Computer Science 
+    Kennesaw State University    1999 ~ 2005    Information Systems    Bachelor of Science
+    Sequoyah High School    1996 ~ 2000    College Prep    HS diploma
+    Georgia Institute of Technology    2000 ~ 2002    Computer Science 
+    Kennesaw State University    1999 ~ 2005    Information Systems    Bachelor of Science
+Working Experience:
+    Sensus    2017.5 ~ Now    Sr IoT Engineer    Greater Atlanta Area
+    Simeio Solutions    2013.9 ~ 2014.6    Senior Developer    Woodstock, Georgia
+    Fabric.com (an Amazon.com company)    2011.9 ~ 2013.8    Software Development Engineer II    Kennesaw, GA
+    Manhattan Associates    2015.12 ~ 2017.5    Principal Software Engineer    Greater Atlanta Area
+    Vonage    2014.6 ~ 2015.12    Senior Software Engineer (SDE III)    Atlanta, GA
+    Sensus    2017.5 ~ Now    Sr IoT Engineer    Greater Atlanta Area
+    Simeio Solutions    2013.9 ~ 2014.6    Senior Developer    Woodstock, Georgia
+    Fabric.com (an Amazon.com company)    2011.9 ~ 2013.8    Software Development Engineer II    Kennesaw, GA
+    Manhattan Associates    2015.12 ~ 2017.5    Principal Software Engineer    Greater Atlanta Area
+    Vonage    2014.6 ~ 2015.12    Senior Software Engineer (SDE III)    Atlanta, GA
+Involved Organization:
+    International High IQ Society    2002.3 ~ Now
+    TenIQ    2017.9 ~ Now
+    Britley Park Homeowners Association    2016.5 ~ Now
+    KSU Theta Chi Alumni Association    2014.7 ~ Now
+    International High IQ Society    2002.3 ~ Now
+    TenIQ    2017.9 ~ Now
+    Britley Park Homeowners Association    2016.5 ~ Now
+    KSU Theta Chi Alumni Association    2014.7 ~ Now
+Projects:
+    ADP Online Benefits Portal     Description: Worked with a lot of the database code and webservice calls for the self-service portal.
+    ADP Online Benefits Portal     Description: Worked with a lot of the database code and webservice calls for the self-service portal.
+Volunteer:
+    Wandering To Nourish    Time: 2016.1 ~ 2016.1    role: Handing out Food and Supplies to homeless
+    Wandering To Nourish    Time: 2016.1 ~ 2016.1    role: Handing out Food and Supplies to homeless

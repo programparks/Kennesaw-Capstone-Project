@@ -1,0 +1,53 @@
+Skills: 
+    AutoCAD Mechanical
+    Microsoft Office
+    Inventor
+    Mechanical Engineering
+    AutoCAD Mechanical
+    Microsoft Office
+    Inventor
+    Mechanical Engineering
+Name: TidwellTrace   https://www.linkedin.com/in/ACoAAALCzpsBJwCX5VgZWDbPdIctzOMcvGT9C0w/
+Summary: Graduated from Georgia Tech in 2008 with a BS Mechanical Engineering. After 8+ years in engineering roles, 2 of which were spent in Germany, with 2 different manufacturers, recently decided to change careers. Starting MS Computer Science - Machine Learning at Georgia Tech in Fall 2018. Analytical thinker and passionate about solving problems. Motivated and ready to prove ability to succeed in new field.
+occupation: Automation Engineer at Roboyo | MSCS - Machine Learning Student at Georgia Tech
+location: Smyrna, Georgia
+Education Background:
+    Georgia Institute of Technology    2018 ~ 2019    Computer Science    Master of Science - MS
+    Columbus State University    2017 ~ 2017     Non-degree Seeking Student
+    Kennesaw State University    2017 ~ 2018    Computer Science Foundations    Graduate Certificate
+    Georgia Institute of Technology    2018 ~ 2019    Computer Science    Master of Science - MS
+    Columbus State University    2017 ~ 2017     Non-degree Seeking Student
+    Kennesaw State University    2017 ~ 2018    Computer Science Foundations    Graduate Certificate
+Working Experience:
+    Southwire Company    2014.7 ~ 2016.1    Specifications Engineer - Specifications    Carrollton, GA
+    Southwire Company    2016.1 ~ 2017.4    Mechanical Engineer - Operations Engineering    Carrollton, GA
+    Roboyo    2018.4 ~ Now    Automation Engineer    Greater Atlanta Area
+    Southwire Company    2013.9 ~ 2014.7    Development Engineer - Industrial Development    Cofer Technology Center - Carrollton, GA
+    thyssenkrupp    2009.1 ~ 2013.8    Mechanical Engineer - Equipment Design &amp; Manufacture    Atlanta, GA
+    Southwire Company    2014.7 ~ 2016.1    Specifications Engineer - Specifications    Carrollton, GA
+    Southwire Company    2016.1 ~ 2017.4    Mechanical Engineer - Operations Engineering    Carrollton, GA
+    Roboyo    2018.4 ~ Now    Automation Engineer    Greater Atlanta Area
+    Southwire Company    2013.9 ~ 2014.7    Development Engineer - Industrial Development    Cofer Technology Center - Carrollton, GA
+    thyssenkrupp    2009.1 ~ 2013.8    Mechanical Engineer - Equipment Design &amp; Manufacture    Atlanta, GA
+Honor&Awards:
+    Dean&#39;s 4.0 Club    Author: Kennesaw State University - College of Computing and Software Engineering    Time: 2018.1
+    Dean&#39;s 4.0 Club    Author: Kennesaw State University - College of Computing and Software Engineering    Time: 2018.1
+Involved Organization:
+    Sigma Nu    2003.12 ~ Now
+    Upsilon Pi Epsilon 
+    Sigma Nu    2003.12 ~ Now
+    Upsilon Pi Epsilon 
+Projects:
+    Geckoboard Challenge    Time: 2016.10 ~ 2016.10    Description: Wrote a Python script that pulls data from the Twitter REST API and sends it to the Geckoboard API as part of an job application challenge. The number of Twitter followers and the number of Twitter mentions each day are sent to Geckoboard, where they are displayed on a dashboard.
+    Predicting High (&gt;$50k) or Low (&lt;âPk) Income from US Census Data    Time: 2016.10 ~ 2016.10    Description: Research Project for CPSC605 - Data Mining &amp; Data Analysis. Will compare 5 classifiers on 3 different US Census datasets to determine which classifier best predicts high or low income.
+    Implementation of K-Means Algorithm    Time: 2016.11 ~ 2016.11    Description: Instructions: In this assignment you will implement the KMeans algorithm, you can use R or Python to write your source code. Name your source code file as KMeans.R or KMeans.py. Run your source code on the Iris dataset, you can find the dataset in the UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Iris), read the dataset description to discover how many clusters (K) you should ask for when you run your implementation.&#92;n&#92;nFor initialization, use any random function to set the initial clustersâ centers, k points. For stopping criteria use the following two criteria: 1) The squared Euclidean distances between the old mean and the current mean â¬ is less than a threshold, say 0.001. 2) The number of iterations is less than 20.&#92;n&#92;nSubmission: You should submit two files: 1) Your KMeans source code file, name it as: KMeans.R or KMeans.py 2) A report file which includes: the size of each cluster, the number of iterations, the final â¬, the cluster label for each data point, and the accuracy of your algorithm.
+    ID3 Decision Tree Algorithm Implementation  
+    Github Repo     Description: Here is my Github account containing some projects I&#39;ve worked on since starting this journey.
+    Geckoboard Challenge    Time: 2016.10 ~ 2016.10    Description: Wrote a Python script that pulls data from the Twitter REST API and sends it to the Geckoboard API as part of an job application challenge. The number of Twitter followers and the number of Twitter mentions each day are sent to Geckoboard, where they are displayed on a dashboard.
+    Predicting High (&gt;$50k) or Low (&lt;âPk) Income from US Census Data    Time: 2016.10 ~ 2016.10    Description: Research Project for CPSC605 - Data Mining &amp; Data Analysis. Will compare 5 classifiers on 3 different US Census datasets to determine which classifier best predicts high or low income.
+    Implementation of K-Means Algorithm    Time: 2016.11 ~ 2016.11    Description: Instructions: In this assignment you will implement the KMeans algorithm, you can use R or Python to write your source code. Name your source code file as KMeans.R or KMeans.py. Run your source code on the Iris dataset, you can find the dataset in the UC Irvine Machine Learning Repository (https://archive.ics.uci.edu/ml/datasets/Iris), read the dataset description to discover how many clusters (K) you should ask for when you run your implementation.&#92;n&#92;nFor initialization, use any random function to set the initial clustersâ centers, k points. For stopping criteria use the following two criteria: 1) The squared Euclidean distances between the old mean and the current mean â¬ is less than a threshold, say 0.001. 2) The number of iterations is less than 20.&#92;n&#92;nSubmission: You should submit two files: 1) Your KMeans source code file, name it as: KMeans.R or KMeans.py 2) A report file which includes: the size of each cluster, the number of iterations, the final â¬, the cluster label for each data point, and the accuracy of your algorithm.
+    ID3 Decision Tree Algorithm Implementation  
+    Github Repo     Description: Here is my Github account containing some projects I&#39;ve worked on since starting this journey.
+Volunteer:
+    ProjectGIFT    Time: 2014.11 ~ 2017.4    role: Volunteer
+    ProjectGIFT    Time: 2014.11 ~ 2017.4    role: Volunteer

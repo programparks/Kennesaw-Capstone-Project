@@ -1,0 +1,27 @@
+Skills: 
+    Project Management
+    Management Consulting
+    Global Business Management
+    Leadership
+Name: Parrish, MBALiz   https://www.linkedin.com/in/ACoAAAELXTIB1KmBzScPgTVgoHiG1fx35B2VOJ8/
+Summary: Business is ever evolving - I look for opportunity in change and execute based on my personal mission statement: &#92;
+occupation: Impacting the Outcome as an experienced Global Business Professional | Consultant | Project Manager | Mentor
+location: Greater Los Angeles Area
+Education Background:
+    University of Redlands    2015 ~ 2017    Global Business    Master of Business Administration (M.B.A.)
+    Kennesaw State University    2007 ~ 2009    Geographic Information Science    Bachelor of Science (B.S.)
+    Kennesaw State University    2007 ~ 2009    Information Technology    Certificate
+Working Experience:
+    Esri    2013.8 ~ 2015.8    Senior Geodata Support Analyst    Greater Los Angeles Area
+    ARCADIS    2009.8 ~ 2010.4    GIS Specialist II    Atlanta, GA
+    University of Redlands, Scool of Business    2015.12 ~ Now    Adjunct Faculty | Project Manager | Graduate Research Assistant    Redlands, CA
+    Esri    2015.8 ~ Now    Technical Account Manager    Greater Los Angeles Area
+    iXP Corporation    2010.11 ~ 2013.7    GIS Analyst at City of Johns Creek, Georgia    Johns Creek, GA
+Publications:
+    The Digital Divide in Latin America and the Caribbean: A Multivariate and Geospatial Analysis    Publishing House: Conference Proceedings of the 23rd Americas Conference on Information Systems, Boston, MA
+    Internet Use and Online Activities in U.S. States: Geographic Disparities and Socio-economic Influences    Publishing House: Hawaii International Conference on System Sciences 2018 (HICSS-51)
+    Spatial Patterns and Socioeconomic Dimensions of Internet Use in U.S. States: Implications for the Digital Divide    Publishing House: Conference Proceedings of the 48th Annual Meeting of the Decision Sciences Institute, Washington, D.C.
+    Multivariate and Geospatial Analysis of Technology Utilization in Latin America and the Caribbean    Publishing House: Poster Presentation - Seventh Annual Los Angeles Geospatial Summit Program, Los Angeles, CA
+Honor&Awards:
+    Special Achievement in GIS (SAG)    Author: ESRI    Time: 2017.7
+    User Software Applications Fair - Second Place    Author: ESRI    Time: 2012.7

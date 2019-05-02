@@ -1,0 +1,80 @@
+Skills: 
+    Data Analysis
+    Analytics
+    SAS
+    SAS programming
+    Data Analysis
+    Analytics
+    SAS
+    SAS programming
+Name: Rudd, MPH GStatJessica Michelle   https://www.linkedin.com/in/ACoAAAJZlCsBNm7ILLWV1d-UZ4V8a5oYNqcJ9nY/
+Summary: Current PhD student in Analytics and Data Science at Kennesaw State University. ASA accredited Graduate Statistican (GStat). Certified SAS Base Programmer. Academic and professional experience in infectious disease epidemiology and biostatistics. Over 6 years as senior programmer and data analyst for the Division of Viral Diseases at the CDC. Experience working on outbreaks of H1N1, Nipah, Japanese encephalitis, MERS-CoV, Ebola, and various enteric illnesses. Deployed to WHO in Geneva as data manager for MERS-CoV outbreak. I have extensive training in foreign languages including advanced comprehension of French and basic knowledge of Arabic, Xhosa, Bangla, Hebrew and Spanish. I also have public speaking and theatrical performance experience through training and performance at Whole World Improv Theatre, Pinch N&#39; Ouch Theatre, Highwire Theater, and Post Modern Collapse Sketch Comedy. Interested in opportunities to engage in advanced analytics and machine learning. &#92;n&#92;nSpecialties: Analytics, Data Science, Machine Learning, SAS, R, Python, SQL, SUDAAN, Matlab, C++
+occupation: PhD student in Analytics and Data Science, interested in graduate level internships and coops in machine learning and predictive modeling.
+location: Greater Atlanta Area
+Education Background:
+    Emory University    2003 ~ 2007    Anthropology; International Studies; Global Health, Culture &amp; Society; French    Bachelor of Arts
+    Emory University    2007 ~ 2009    Global Epidemiology    Masters of Public Health
+    Kennesaw State University    2016 ~ 2020    Analytics and Data Science    Doctor of Philosophy (Ph.D.)
+    Emory University    2003 ~ 2007    Anthropology; International Studies; Global Health, Culture &amp; Society; French    Bachelor of Arts
+    Emory University    2007 ~ 2009    Global Epidemiology    Masters of Public Health
+    Kennesaw State University    2016 ~ 2020    Analytics and Data Science    Doctor of Philosophy (Ph.D.)
+Working Experience:
+    Whole World Improv Theatre    2011.4 ~ 2016.1    Actor    Greater Atlanta Area
+    Leidos Health    2010.8 ~ 2017.10    Epidemiologist/Biostatistician    Greater Atlanta Area
+    Rwanda Zambia HIV Research Group    2009.9 ~ 2010.8    Research Project Coordinator    Greater Atlanta Area
+    Rwanda Zambia HIV Research Group    2007.10 ~ 2009.5    Research Assistant    Greater Atlanta Area
+    Kennesaw State University    2016.8 ~ Now    Graduate Research Assistant    Greater Atlanta Area
+    Whole World Improv Theatre    2011.4 ~ 2016.1    Actor    Greater Atlanta Area
+    Leidos Health    2010.8 ~ 2017.10    Epidemiologist/Biostatistician    Greater Atlanta Area
+    Rwanda Zambia HIV Research Group    2009.9 ~ 2010.8    Research Project Coordinator    Greater Atlanta Area
+    Rwanda Zambia HIV Research Group    2007.10 ~ 2009.5    Research Assistant    Greater Atlanta Area
+    Kennesaw State University    2016.8 ~ Now    Graduate Research Assistant    Greater Atlanta Area
+Publications:
+    Effectiveness of Monovalent and Pentavalent Rotavirus Vaccine    Publishing House: Pediatrics
+    Multifacility Outbreak of Middle East Respiratory Syndrome in Taif, Saudi Arabia    Publishing House: Emerging Infectious Diseases
+    Update on the Epidemiology of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) Infection, and Guidance for the Public, Clinicians, and Public Health Authorities â January 2015    Publishing House: MMWR
+    Evaluation of Patients under Investigation for MERS-CoV Infection, United States, January 2013âOctober 2014    Publishing House: Emerging Infectious Diseases
+    Estimation of Severe Middle East Respiratory Syndrome Cases in the Middle East, 2012â2016    Publishing House: Emerging Infectious Diseases
+    Effectiveness of Monovalent and Pentavalent Rotavirus Vaccine    Publishing House: Pediatrics
+    Multifacility Outbreak of Middle East Respiratory Syndrome in Taif, Saudi Arabia    Publishing House: Emerging Infectious Diseases
+    Update on the Epidemiology of Middle East Respiratory Syndrome Coronavirus (MERS-CoV) Infection, and Guidance for the Public, Clinicians, and Public Health Authorities â January 2015    Publishing House: MMWR
+    Evaluation of Patients under Investigation for MERS-CoV Infection, United States, January 2013âOctober 2014    Publishing House: Emerging Infectious Diseases
+    Estimation of Severe Middle East Respiratory Syndrome Cases in the Middle East, 2012â2016    Publishing House: Emerging Infectious Diseases
+Honor&Awards:
+    2018 SAS Student Ambassador    Author: SAS    Time: 2017.12
+    Phi Kappa Phi    Author: Phi Kappa Phi    Time: 2018.2
+    Golden Key International Honour Society    Author: https://www.goldenkey.org/    Time: 2017.10
+    SAS Analytics Experience Student Poster Winner    Author: SAS    Time: 2017.8
+    1st Place Graduate Research at SAS Day    Author: Kennesaw State University    Time: 2017.4
+    Knight of Sufferlandria    Author: www.thesufferfest.com    Time: 2016.1
+    SAS Global Forum 2017 Scholarship Winner    Author: SAS    Time: 2017.4
+    2018 SAS Student Ambassador    Author: SAS    Time: 2017.12
+    Phi Kappa Phi    Author: Phi Kappa Phi    Time: 2018.2
+    Golden Key International Honour Society    Author: https://www.goldenkey.org/    Time: 2017.10
+    SAS Analytics Experience Student Poster Winner    Author: SAS    Time: 2017.8
+    1st Place Graduate Research at SAS Day    Author: Kennesaw State University    Time: 2017.4
+    Knight of Sufferlandria    Author: www.thesufferfest.com    Time: 2016.1
+    SAS Global Forum 2017 Scholarship Winner    Author: SAS    Time: 2017.4
+Involved Organization:
+    Alpha Phi Omega    2004.9 ~ 2007.5
+    Alpha Phi Omega    2004.9 ~ 2007.5
+Projects:
+    Utilizing SAS to Estimate Rates of Disease for Nationally Representative Databases    Time: 2013.12 ~ 2014.2    Description: We describe burden of disease by analyzing the statistical association of various diseases with: hospitalizations, emergency department (ED) visits, ambulatory/outpatient (doctorsâ office) visits, and deaths. In this short paper, we use large, nationally representative databases, such as those offered by the National Center for Health Statistics (NCHS) or the Agency for Healthcare Research and Quality (AHRQ), to produce reliable estimates of disease for studies. In this example, we use SASÂ® and SASÂ®-callable SUDAANÂ® to analyze the Nationwide Inpatient Sample (NIS), offered by AHRQ, to estimate all-cause gastro related hospitalizations in children less than 3 years old.
+    Comparison of Decision Tree Model and Logistic Regression for Prediction of Commercial Credit Risk    Time: 2017.1 ~ Now    Description: Utilizing sub prime commercial customer files to predict credit risk
+    Monthly Bike Commuter Breakfasts    Time: 2012.5 ~ Now    Description: I organize the Atlanta Bicycle Coalition&#39;s monthly Bike Commuter Breakfasts. When I started organizing them, they had an attendance of 5 cyclists, and now they have an average attendance of 25.
+    National Estimate of Acute Flaccid Myelitis Hospitalizations among Children, Ages 1-20    Time: 2015 ~ Now    Description: Utilization case reports of acute flaccid myelitis (unknown etiology) to define condition and applying definition to national dataset of pediatric hospitalizations to produce estimates of disease for surveillance. 
+    National Estimate of Hospitalizations and Emergency Department Visits for Hand, Foot, and Mouth Disease    Time: 2011.12 ~ Now    Description: Academic paper describing the hospitalization and emergency department visit burden of Hand, Foot, and Mouth Disease in children less than 5 years of age.
+    Application of Support Vector Machine Modeling for Disease Classification    Time: 2017.1 ~ Now    Description: Study comparing predictive power of SVM with traditional logistic regression for high dimensional health data. 
+    Utilizing SAS to Estimate Rates of Disease for Nationally Representative Databases    Time: 2013.12 ~ 2014.2    Description: We describe burden of disease by analyzing the statistical association of various diseases with: hospitalizations, emergency department (ED) visits, ambulatory/outpatient (doctorsâ office) visits, and deaths. In this short paper, we use large, nationally representative databases, such as those offered by the National Center for Health Statistics (NCHS) or the Agency for Healthcare Research and Quality (AHRQ), to produce reliable estimates of disease for studies. In this example, we use SASÂ® and SASÂ®-callable SUDAANÂ® to analyze the Nationwide Inpatient Sample (NIS), offered by AHRQ, to estimate all-cause gastro related hospitalizations in children less than 3 years old.
+    Comparison of Decision Tree Model and Logistic Regression for Prediction of Commercial Credit Risk    Time: 2017.1 ~ Now    Description: Utilizing sub prime commercial customer files to predict credit risk
+    Monthly Bike Commuter Breakfasts    Time: 2012.5 ~ Now    Description: I organize the Atlanta Bicycle Coalition&#39;s monthly Bike Commuter Breakfasts. When I started organizing them, they had an attendance of 5 cyclists, and now they have an average attendance of 25.
+    National Estimate of Acute Flaccid Myelitis Hospitalizations among Children, Ages 1-20    Time: 2015 ~ Now    Description: Utilization case reports of acute flaccid myelitis (unknown etiology) to define condition and applying definition to national dataset of pediatric hospitalizations to produce estimates of disease for surveillance. 
+    National Estimate of Hospitalizations and Emergency Department Visits for Hand, Foot, and Mouth Disease    Time: 2011.12 ~ Now    Description: Academic paper describing the hospitalization and emergency department visit burden of Hand, Foot, and Mouth Disease in children less than 5 years of age.
+    Application of Support Vector Machine Modeling for Disease Classification    Time: 2017.1 ~ Now    Description: Study comparing predictive power of SVM with traditional logistic regression for high dimensional health data. 
+Volunteer:
+    FIRST    Time: 2010.8 ~ 2012.6    role: Volunteer Coordinator
+    Atlanta Track Club    Time: 2014.7 ~ Now    role: Pace Captain/Run Leader
+    BibRave    Time: 2015.11 ~ Now    role: BibRave Pro
+    FIRST    Time: 2010.8 ~ 2012.6    role: Volunteer Coordinator
+    Atlanta Track Club    Time: 2014.7 ~ Now    role: Pace Captain/Run Leader
+    BibRave    Time: 2015.11 ~ Now    role: BibRave Pro

@@ -1,0 +1,25 @@
+Skills: 
+    DoD
+    Military
+    Training
+    Air Force
+Name: GriffithDale   https://www.linkedin.com/in/ACoAAAvPcL4BtuDdNGyX_zirMVfWtzUPV3z8-Ew/
+Summary: Strategic-level leader with diverse experience creating, developing, and executing plans for assessment, consolidation, cost reduction, and improving organizational value. Profit-margin driven, pioneering leader, and motivator with 19 years of Information Technology (8 years project management,5 years LEAN) experience controlling assets in excess of $200M. Successful, enthusiastic team player with powerful communication and interpersonal skills to direct change, shape organizational culture, and increase business performance.&#92;n&#92;nCertification: Green Belt LEAN Management, Mastering Project Management
+occupation: Green Belt LEAN
+location: Richmond, Virginia Area
+Education Background:
+    Kennesaw State University - Michael J. Coles College of Business    1990 ~ 1992    Business Administration and Management, General    B.B.A.
+    Southern Polytechnic State University    1993 ~ 1996    Management of Technology    Master of Science (M.S.)
+    Community College of the Air Force    1981 ~ 1989    Personnel Administration    Associate of Applied Science
+Working Experience:
+    US Air Force Reserve    2008.7 ~ 2009.3    (CMSgt) Chief, Military Human Capital Programs (Headquarters,Readiness Management Group)    Robins Air Force Base, Georgia
+    National Park Service    2014.2 ~ Now    Business Manager    Petersburg, VA
+    US Air Force Reserve    2009.3 ~ 2013.10    (CMSgt) Chief, Plans and Programs Division (Headquarters, Readiness Management Group)    Robins Air Force Base, Georgia
+    John Tyler Community College    2014.8 ~ 2016.7    Adjunct Professor    Chester and Midlothian
+    US Air Force Reserve    2006.6 ~ 2008.6    (CMSgt) Superintendent, Individual Reserve Management (Detachment 3, Readiness Management Group)    Hurlburt Field, FL
+Involved Organization:
+    Delta Mu Delta (High Academic Standard Business Management)    1996.6 ~ Now
+Projects:
+    WAN Infrastructure Project    Time: 1999.4 ~ 2000.3    Description: Staged and configured Backbone Internet services for 10 southern cities using dial-up only internet capabilities.  Established internet through BellSouth.Net.
+Volunteer:
+    Unity Baptist Church, Bonaire, GA    Time: 2012.1 ~ 2013.7    role: Choir Director

@@ -1,0 +1,26 @@
+Skills: 
+    Object-Oriented Programming (OOP)
+    C#
+    Java
+    SQL
+    Object-Oriented Programming (OOP)
+    C#
+    Java
+    SQL
+Name: ParksRicky Hakeem   https://www.linkedin.com/in/ACoAABphCyMBLH61q2_vE-28_vYg6MYqaAGtXpw/
+Summary: I am a senior that&#39;s majoring in Information Technology.  I have a strong passion for computer programming and will be looking for programming positions after graduation this May. I have a background in C++ and Java, but I am currently picking up the C# programming language as well. I also have experience building apps using SQL, middleware, and JSON. I&#39;ll be glad to assist anyone looking for people to help build whatever software they desire.
+occupation: Information Technology Major at Kennesaw State University
+location: Lawrenceville, Georgia
+Education Background:
+    Gwinnett Technical College    2013 ~ 2015    Computer Programming    Associate of Applied Science
+    Kennesaw State University    2016 ~ 2018    Information Technology    Bachelor of Applied Science - BASc
+    Gwinnett Technical College    2013 ~ 2015    Computer Programming    Associate of Applied Science
+    Kennesaw State University    2016 ~ 2018    Information Technology    Bachelor of Applied Science - BASc
+Working Experience:
+    Rev.com    2016.5 ~ 2018.4    Transcriptionist 
+    Rev.com    2016.5 ~ 2018.4    Transcriptionist 
+Projects:
+    IT Alumni Database ETL    Time: 2018.1 ~ Now    Description: The purpose of this project is to pull data from LinkedIn that will be used to track graduates after they leave Kennesaw State University. The information will be stored in the school&#39;s database. I was tasked with building the logic using Python and working on the SQL.
+    Chappy    Time: 2015.8 ~ 2015.12    Description: The purpose of this project was to create a service that would allow campus students who felt unsafe to use an app to request a chaperone. This chaperone would walk with them to their destination. I was tasked with building the Android application, but there were also Iphone and desktop versions of the app. The app used JSON and C# middleware to communicate with the database.
+    IT Alumni Database ETL    Time: 2018.1 ~ Now    Description: The purpose of this project is to pull data from LinkedIn that will be used to track graduates after they leave Kennesaw State University. The information will be stored in the school&#39;s database. I was tasked with building the logic using Python and working on the SQL.
+    Chappy    Time: 2015.8 ~ 2015.12    Description: The purpose of this project was to create a service that would allow campus students who felt unsafe to use an app to request a chaperone. This chaperone would walk with them to their destination. I was tasked with building the Android application, but there were also Iphone and desktop versions of the app. The app used JSON and C# middleware to communicate with the database.

@@ -1,0 +1,21 @@
+Skills: 
+    Data Analysis
+    Statistics
+    SAS
+    Process Improvement
+Name: MitchellMax   https://www.linkedin.com/in/ACoAAAIRd40BMpPSsAIc3kDkywCisLYTR2z8LDs/
+Summary: Strong background in Applied Statistics, Data Science, and Atmospheric Science. I specialize in gleaning meaningful and profitable conclusions from data. Experienced with numerous statistical and data mining techniques. Experienced with SAS programming language, as well as SQL and R. Searching for an opportunity to enhance my skills and leadership in the fields of data science and analytics, with a focus in the biotech arena.
+occupation: Data Scientist / Statistician
+location: Tucson, Arizona
+Education Background:
+    North Carolina Agricultural and Technical State University     Chemical Engineering    B.S.
+    University of Arizona    2016 ~ 2018    Weather Prediction, Meteorology    Atmospheric Science &amp; Hydrology
+    Kennesaw State University    2009 ~ 2012    Applied Statistics    Master of Science (M.S.)
+Working Experience:
+    Honeywell    2008.7 ~ 2009.8    Process Engineer 
+    Southern Company    2010.5 ~ 2010.8    Statistical Intern    Atlanta, GA
+    Internal Revenue Service    2010.10 ~ 2016.7    Research Analyst and Statistician    Atlanta, GA
+    University of Arizona    2016.8 ~ Now    Research Assistant &amp; Graduate Student - M.S. in Atmospheric Science    Tucson, Arizona
+    Kennesaw State University    2009.8 ~ 2012.5    Graduate Student M.S. Applied Statistics 
+Projects:
+    Customer Satisfaction Survey Analysis    Time: 2011.1 ~ 2014.6    Description: Analyzed data from customer satisfaction surveys, using sound statistical techniques, to inform operations on how to improve services to the taxpayer. Monthly, quarterly, and annual reports are generated for 18 customer satisfaction surveys. Statistical techniques are performed in SAS and include linear regression, logistic regression, t-tests, general linear models, confidence intervals, Tukey analyses, and numerous tests of significance.

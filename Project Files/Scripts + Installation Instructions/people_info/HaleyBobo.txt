@@ -1,0 +1,19 @@
+Skills: 
+    Regression Analysis
+    Data Mining
+    Data Science
+    Data Analysis
+Name: BoboHaley   https://www.linkedin.com/in/ACoAAB3X4wsBbRLzx2ke926FTRnMWzerzRd9F6U/
+Summary: In May of 2018, I will graduate with a Masters in Applied Statistics from Kennesaw State University and relocate to Denver, Colorado to pursue a career in the data science field. With experience in mathematics education and training in statistical modeling and programming, I possess the unique combination of skills that allows me to analyze data and then present findings in ways that can be understood by all audiences. I look forward to working with a company that wants to use data to drive themselves into a brighter future.
+occupation: Seeking Data Scientist position in Denver, Colorado.
+location: Aurora, Colorado
+Education Background:
+    Kennesaw State University    2016 ~ 2018.5    Applied Statistics    Master&#39;s degree
+    Kennesaw State University    2009 ~ 2013    Mathematics Teacher Education    Bachelor of Science (B.S.)
+Working Experience:
+    Cherokee County Schools    2013.7 ~ 2014.7    Middle School Teacher    Canton, Georgia
+    Kennesaw State University    2016.8 ~ Now    Graduate Teaching Assistant    Kennesaw, Georgia
+    Cherokee County Schools    2014.7 ~ 2016.7    High School Mathematics Teacher    Canton, Ga
+Projects:
+    Southern Company Customer Prediction    Time: 2017.1 ~ 2017.4    Description: Presentation given to the Southern Company as a part of a competition in which it was awarded 2nd place. This project consisted of a predictive model to help the Southern Company target customers who were likely to miss a payment and cost the company valuable time and money.
+    Employee Retention Prediction    Time: 2017.11 ~ 2017.11    Description: Poster presentation created for Kennesaw State University&#39;s R Day competition. In this project, logistic regression was used to create a predictive model that could be used to find the probability of employee turnover. 

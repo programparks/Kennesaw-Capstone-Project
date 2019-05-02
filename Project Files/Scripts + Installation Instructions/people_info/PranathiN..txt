@@ -1,0 +1,59 @@
+Skills: 
+    MySQL
+    Epic Systems
+    Epic Bridges
+    HL7
+    MySQL
+    Epic Systems
+    Epic Bridges
+    HL7
+Name: N.Pranathi   https://www.linkedin.com/in/ACoAAAMSTlUBWzjZOgigC_BefjCpJao6mHWn7QQ/
+Summary: Integration analyst with experience in Enterprise Healthcare Integrations for EMR and middle-ware software for large hospital systems. Able to manage a team, optimize processes, implement capital projects and adapt to a fast paced environment.&#92;nâ¢ Successfully implemented large scale projects such as clinical data conversion (discrete historical data to hl7 format) from enterprise legacy database to Epic EMR     system and Enterprise EMR double upgrade.&#92;nâ¢ Experience in implementing and supporting (24X7) Epic EMR integrations using Epic Bridges module and Ensemble interface engine (hl7, FTP/SFTP). &#92;nâ¢ Adept in collaborating with cross functional teams and stakeholders for analysis, design, testing and cutover planning for go live. &#92;nâ¢ Comfortable working under critical timelines to handle complex and ambiguous situations.
+occupation: Technical Lead@ SFDPH| Co-Chair, MC@GHC18
+location: San Francisco Bay Area
+Education Background:
+    Kennesaw State University - College of Science and Mathematics     Information Systems    Master of Science (M.S.)
+    Udacity    2018 ~ Now    Android Developer Track    Google Developer Challenge
+    Jawaharlal Nehru Technological University      Bachelor of Technology - BTech
+    Kennesaw State University - College of Science and Mathematics     Information Systems    Master of Science (M.S.)
+    Udacity    2018 ~ Now    Android Developer Track    Google Developer Challenge
+    Jawaharlal Nehru Technological University      Bachelor of Technology - BTech
+Working Experience:
+    San Francisco Department of Public Health    2018.1 ~ Now    Technical Lead -EHR Implementation Project    San Francisco Bay Area
+    Stanford University Medical Center    2013.6 ~ 2016.5    Integration Developer    Palo Alto, CA
+    Anita Borg Institute for Women and Technology    2017.1 ~ Now    Co-Chair, Mentoring Circles@GHC17, GHC18(Volunteer)    San Francisco Bay Area
+    Oracle    2012.10 ~ 2013    Business Data Analyst    Redwood Shores,CA
+    Deloitte    2016.6 ~ 2018.1    Solution Engineer | Implementation Lead    San Francisco Bay Area
+    San Francisco Department of Public Health    2018.1 ~ Now    Technical Lead -EHR Implementation Project    San Francisco Bay Area
+    Stanford University Medical Center    2013.6 ~ 2016.5    Integration Developer    Palo Alto, CA
+    Anita Borg Institute for Women and Technology    2017.1 ~ Now    Co-Chair, Mentoring Circles@GHC17, GHC18(Volunteer)    San Francisco Bay Area
+    Oracle    2012.10 ~ 2013    Business Data Analyst    Redwood Shores,CA
+    Deloitte    2016.6 ~ 2018.1    Solution Engineer | Implementation Lead    San Francisco Bay Area
+Publications:
+    Careers Bridging Healthcare and Technology    Publishing House: Grace Hopper Conference
+    Careers Bridging Healthcare and Technology    Publishing House: Grace Hopper Conference
+Honor&Awards:
+    Google I/O Travel Award    Author: Systers, Anita Borg Institute of Women in Technology    Time: 2016.4
+    Google Travel Grant Recipient - Grace Hopper Conference 2015    Author: Google    Time: 2015.10
+    Google Developer Challenge Scholarship 2018 Recipient    Author: Udacity &amp; Google    Time: 2018.1
+    Google I/O Travel Award    Author: Systers, Anita Borg Institute of Women in Technology    Time: 2016.4
+    Google Travel Grant Recipient - Grace Hopper Conference 2015    Author: Google    Time: 2015.10
+    Google Developer Challenge Scholarship 2018 Recipient    Author: Udacity &amp; Google    Time: 2018.1
+Projects:
+    Epic 2015 Upgrade    Time: 2016.7 ~ 2017.7    Description: Large National Faith-based Health system is implementing Epic 2015 upgrade. This is a double upgrade from Epic 2012 to 2015 version for multiple Epic instances within the organization. &#92;nResponsible for Leading upgrade, requirements gathering, develop new interfaces, integrated testing and production upgrade in Epic Bridges.
+    Epic 2015 Upgrade    Time: 2015.10 ~ 2016.2    Description: Stanford Healthcare is implementing Epic 2015 Upgrade EMR system. Part of upgrade, working with application teams for identifying/testing version changes for several interfaces in Ensemble and Epic 2014 in order to have a smooth upgrade.
+    Data Conversion    Time: 2015.3 ~ 2015.9    Description: Stanford Healthcare implemented Phoenix organ transplant module in Epic to migrate from their existing Trans chart application. As part of migration, converted the historical data from enterprise legacy database [Trans chart] to Epic EMR system. Responsible for design, development, testing and loading of four new conversion interfaces for data conversion from discrete format to hl7 format [lab results, scanned documents, clinical document flow sheets and notes] using Epic Bridges 2014 and Ensemble 2015.
+    EHR Implementation    Time: 2018.1 ~ Now    Description: SanFrancisco Department of Public Health is implementing Epic as their Electronic Medical Record enterprise wide.
+    Epic Community Connect    Time: 2017.7 ~ 2017.12    Description: Large National Faith-based Health system is implementing Epic Community Connect with a new hospital system. &#92;nLead Bridges analyst for technical solution design, Epic interfaces configuration, integrated testing and production deployment.
+    Epic 2015 Upgrade    Time: 2016.7 ~ 2017.7    Description: Large National Faith-based Health system is implementing Epic 2015 upgrade. This is a double upgrade from Epic 2012 to 2015 version for multiple Epic instances within the organization. &#92;nResponsible for Leading upgrade, requirements gathering, develop new interfaces, integrated testing and production upgrade in Epic Bridges.
+    Epic 2015 Upgrade    Time: 2015.10 ~ 2016.2    Description: Stanford Healthcare is implementing Epic 2015 Upgrade EMR system. Part of upgrade, working with application teams for identifying/testing version changes for several interfaces in Ensemble and Epic 2014 in order to have a smooth upgrade.
+    Data Conversion    Time: 2015.3 ~ 2015.9    Description: Stanford Healthcare implemented Phoenix organ transplant module in Epic to migrate from their existing Trans chart application. As part of migration, converted the historical data from enterprise legacy database [Trans chart] to Epic EMR system. Responsible for design, development, testing and loading of four new conversion interfaces for data conversion from discrete format to hl7 format [lab results, scanned documents, clinical document flow sheets and notes] using Epic Bridges 2014 and Ensemble 2015.
+    EHR Implementation    Time: 2018.1 ~ Now    Description: SanFrancisco Department of Public Health is implementing Epic as their Electronic Medical Record enterprise wide.
+    Epic Community Connect    Time: 2017.7 ~ 2017.12    Description: Large National Faith-based Health system is implementing Epic Community Connect with a new hospital system. &#92;nLead Bridges analyst for technical solution design, Epic interfaces configuration, integrated testing and production deployment.
+Volunteer:
+    Anita Borg Institute for Women in Technology    Time: 2015.3 ~ 2015.5    role: GHC Scholarship Committee
+    Google    Time: 2015.5 ~ 2015.5    role: Google Summer of Code 2015
+    Stanford Hospital &amp; Clinics    Time: 2014.3 ~ 2014.3    role: Run for a cause
+    Anita Borg Institute for Women in Technology    Time: 2015.3 ~ 2015.5    role: GHC Scholarship Committee
+    Google    Time: 2015.5 ~ 2015.5    role: Google Summer of Code 2015
+    Stanford Hospital &amp; Clinics    Time: 2014.3 ~ 2014.3    role: Run for a cause

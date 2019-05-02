@@ -1,0 +1,47 @@
+Skills: 
+    Tutoring
+    Mathematics
+    Data Analysis
+    Microsoft Excel
+    Tutoring
+    Mathematics
+    Data Analysis
+    Microsoft Excel
+Name: YangYutong (Seline)   https://www.linkedin.com/in/ACoAABi5fzMBJDGKycaffuCKGCefV0_Emyi1soA/
+Summary: Creative problem solver with diligent work ethic interested in a challenging internship opportunity within a collaborative work environment where strong math, statistics and programming skills are required.
+occupation: Highly analytical and creative problem solver focused on data science
+location: Greensboro/Winston-Salem, North Carolina Area
+Education Background:
+    Wake Forest University    2017 ~ 2019    Mathematics and Statistics    Master of Arts - MA
+    Kennesaw State University    2014 ~ 2017    Mathematics, Minor: Computer Science    Bachelor of Science (B.S.) (Honors)
+    Southern Polytechnic State University    2014 ~ 2015    Mathematics    Bachelor&#39;s degree
+    Wake Forest University    2017 ~ 2019    Mathematics and Statistics    Master of Arts - MA
+    Kennesaw State University    2014 ~ 2017    Mathematics, Minor: Computer Science    Bachelor of Science (B.S.) (Honors)
+    Southern Polytechnic State University    2014 ~ 2015    Mathematics    Bachelor&#39;s degree
+Working Experience:
+    Strive Academics, LLC    2017.5 ~ 2017.7    Math Tutor    Greater Atlanta Area
+    Wake Forest University    2017.10 ~ Now    Graduate Student Researcher    Winston-Salem
+    Wake Forest University    2017.8 ~ Now    Graduate Teaching Assistant    Greensboro/Winston-Salem, North Carolina Area
+    Kennesaw State University    2015.8 ~ 2017.5    Student Research Assistant    Marietta, GA, 30060
+    Kennesaw State University - College of Science and Mathematics    2016.8 ~ 2017.5    Peer Learning Assistant     Marietta, GA, 30060
+    Strive Academics, LLC    2017.5 ~ 2017.7    Math Tutor    Greater Atlanta Area
+    Wake Forest University    2017.10 ~ Now    Graduate Student Researcher    Winston-Salem
+    Wake Forest University    2017.8 ~ Now    Graduate Teaching Assistant    Greensboro/Winston-Salem, North Carolina Area
+    Kennesaw State University    2015.8 ~ 2017.5    Student Research Assistant    Marietta, GA, 30060
+    Kennesaw State University - College of Science and Mathematics    2016.8 ~ 2017.5    Peer Learning Assistant     Marietta, GA, 30060
+Honor&Awards:
+    Wake Forest University 2017-2018 Full Tuition Scholarship  
+    Whoâs Who Among Students in American Universities and Colleges Recognition     Time: 2017.1
+    Pi Mu Epsilon (PME) Honor Society Georgia Iota Charter Member    Author: Pi Mu Epsilon Honor Society     Time: 2016.11
+    2016 KSU Undergraduate Scholar of Research and Creative Activity    Author: Kennesaw State University    Time: 2016.3
+    Wake Forest University 2017-2018 Full Tuition Scholarship  
+    Whoâs Who Among Students in American Universities and Colleges Recognition     Time: 2017.1
+    Pi Mu Epsilon (PME) Honor Society Georgia Iota Charter Member    Author: Pi Mu Epsilon Honor Society     Time: 2016.11
+    2016 KSU Undergraduate Scholar of Research and Creative Activity    Author: Kennesaw State University    Time: 2016.3
+Projects:
+    SAS Day Poster Project    Time: 2017.3 ~ 2017.5    Description: Topic: Analyses of Customer Credit Risk from Equifax Dataset&#92;n-Developed and implemented predictive logistic regression modeling for credit risk using SAS and R statistical software, implemented model validation and variable selection&#92;n-Investigated and interpreted data to draw conclusions, data imputation, binary classification&#92;n
+    Honors Undergraduate Research    Time: 2015.8 ~ 2017.5    Description: Topics: Combinatorial Expressions Related to Cross Polytope Numbers, Generalizations of Cross Polytope Numbers&#92;nâ&#92;tConstructed algebraic proofs for combinatorial theorems and provided research assistance to mentor professor.&#92;nâ&#92;tConference presentations: Oral and poster presentations at the National Conference of Undergraduate Research, Nebraska Conference for Undergraduate Women in Mathematics, Southeastern Conference for Undergraduate Women in Mathematics,  MAA MathFest &amp; Pi Mu Epsilon Student Paper Session&#92;n
+    Analytic Method Honors Directed Study    Time: 2016.1 ~ 2016.5    Description: Topics: Quadrature Methods and Population Dynamics with Symmetric and Asymmetric Harvesting &#92;nâ&#92;tAttended analysis seminars and lectures, gave oral presentations each week to fellow students and advisor.&#92;nâ&#92;tCreated a poster summarizing the topics covered and new findings.&#92;n
+    SAS Day Poster Project    Time: 2017.3 ~ 2017.5    Description: Topic: Analyses of Customer Credit Risk from Equifax Dataset&#92;n-Developed and implemented predictive logistic regression modeling for credit risk using SAS and R statistical software, implemented model validation and variable selection&#92;n-Investigated and interpreted data to draw conclusions, data imputation, binary classification&#92;n
+    Honors Undergraduate Research    Time: 2015.8 ~ 2017.5    Description: Topics: Combinatorial Expressions Related to Cross Polytope Numbers, Generalizations of Cross Polytope Numbers&#92;nâ&#92;tConstructed algebraic proofs for combinatorial theorems and provided research assistance to mentor professor.&#92;nâ&#92;tConference presentations: Oral and poster presentations at the National Conference of Undergraduate Research, Nebraska Conference for Undergraduate Women in Mathematics, Southeastern Conference for Undergraduate Women in Mathematics,  MAA MathFest &amp; Pi Mu Epsilon Student Paper Session&#92;n
+    Analytic Method Honors Directed Study    Time: 2016.1 ~ 2016.5    Description: Topics: Quadrature Methods and Population Dynamics with Symmetric and Asymmetric Harvesting &#92;nâ&#92;tAttended analysis seminars and lectures, gave oral presentations each week to fellow students and advisor.&#92;nâ&#92;tCreated a poster summarizing the topics covered and new findings.&#92;n
